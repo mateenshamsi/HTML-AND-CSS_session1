@@ -1,0 +1,105 @@
+/*body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: bisque;
+      
+}
+h1{
+    display:inline-block;
+    color:red;
+    background-color: blueviolet;
+    padding: 10px 5px 15px 20px;
+    /*the order is top and bootom left and right
+    border : 2px solid black;
+    margin:3px 4px 5px 6px;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+    border:2px dotted chartreuse
+}
+img{
+    height: 200px;
+    width: 500px;
+}
+.abc{
+    color:aqua;
+    font-size: medium;
+}
+#xyz{
+    color:brown;
+    background-color: blueviolet;
+    font-size: larger;
+}
+.que{
+    color:red;
+}*/
+/*  BEGGINING OF DIV AND SECTION */
+.container
+{
+    width:1000px;
+    margin : auto;
+}
+h1{
+    background-color: aquamarine;
+}
+.row
+{
+    display:flex;
+    flex-wrap: wrap;
+}
+.box1
+{
+    width:40%;
+    margin:auto;
+}
+.box2
+{
+    width:30%;
+    magin:auto;
+    padding:10px 20px 30px 15px
+}
+.box5{
+    width:40%;
+    
+}
+.box5 img 
+{
+    width:300px;
+    height:400px;
+}
+.box6{
+    width:auto;
+}
+.box6 img 
+{
+    width:300px;
+    height:400px;
+}
+.box7{
+    width:40%;
+    }
+
+.box7 .box7_1
+{
+    width:45%
+    
+}
+.box7_1 img{
+    width:300px;
+    height:400px;
+}
+
+
+.box8{
+    width:40$;
+}
+.box8 .box8_1
+{
+width:45%
+}
+.box8_1 img 
+{
+    width:300px;
+    height:400px;
+}
+
